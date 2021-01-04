@@ -1,6 +1,6 @@
-# README.md
+# 2020 Movie Recommendation Website
 
-> SSAFY 1학기 최종 프로젝트를 진행하는 과정을 README로 작성한다.
+> SSAFY 1학기 최종 프로젝트로 영화 추천 사이트를 구현하는 과정을 README로 작성한다.
 
 ---
 
@@ -8,7 +8,12 @@
 
 ---
 
+## Project Period
+2020.11.19 - 2020.11.27
 
+## Contributors
+- 이송영 (팀장)
+- 이민정
 
 ## :exclamation: 시작 전 CHECK_LIST
 
