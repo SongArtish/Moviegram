@@ -1,4 +1,4 @@
-# 2020 Movie Recommendation Website Project
+# 2020 Movie Website Project
 
 > SSAFY 1학기 최종 프로젝트로 영화 추천 사이트를 구현하는 과정을 README로 작성한다.
 
